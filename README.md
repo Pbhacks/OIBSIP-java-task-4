@@ -1,6 +1,6 @@
 # OIBSIP-java-task-4
 Oasis InfoByte Internship Task 01 by; Priyant
-Online Reservation System
+Atm Interface
 
 ![Alt text](https://github.com/Pbhacks/OIBSIP-java-task-4/blob/main/1.png)
  
@@ -8,7 +8,7 @@ Online Reservation System
 -------------
 
 DEAR USER,
-THIS APP HAS BEEN MADE AS A Online Ticket Reservation System APPLICATION AND, HAS BEEN TESTED BY ME 
+THIS APP HAS BEEN MADE AS AN ATM INTERFACE APPLICATION AND, HAS BEEN TESTED BY ME 
 ON ITS WORKING STRUCTURE.
 THIS IS COMPLETELY VIRUS FREE APPLICATION MADE WITH SPECIAL CONSIDERATIONS OF JAVA FX
 AND SWING LIBRARIES RESPECTIVELY.
