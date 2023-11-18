@@ -2,7 +2,7 @@
 Oasis InfoByte Internship Task 01 by; Priyant
 Online Reservation System
 
-![Alt text](https://github.com/Pbhacks/Prodigy_SD_01/blob/main/Screenshot%202023-10-09%20182105.png)
+![Alt text](https://github.com/Pbhacks/OIBSIP-java-task-4/blob/main/1.png)
  
  USER MANUAL
 -------------
